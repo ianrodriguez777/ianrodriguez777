@@ -1,9 +1,7 @@
-## Hi there 👋
-
 <!--
 **ianrodriguez777/ianrodriguez777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ASSIGNMENT REQUIRES: ABOUT ME , PROJECT SECTION , GOALS AND OBJECTIVES SECTION**
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
