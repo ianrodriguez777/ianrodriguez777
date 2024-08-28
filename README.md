@@ -12,3 +12,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello ! My name is Ian Rodriguez .
+
+ABOUT ME :
+
+PROJECT:
+
+GOALS AND OBJECTIVES:
