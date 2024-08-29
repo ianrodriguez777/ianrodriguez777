@@ -19,12 +19,12 @@
 ⚡ ABOUT ME: <br>
     I am a software engineering student at UNC Charlotte. I enjoy playing video games, spending time in nature, and learning about art history. One of my favorite hobbies is traveling to different cities and visiting the local museums that new places have to offer. I have been working at Amazon as a warehouse associate for almost 6 months now to put myself through the remainder of my education.
 
-🔭 PROJECTS: 
-    <b> Sandwich API - Software Engineering </b>
-    During the past summer, I took an accelerated software engineering course where the final project was to create a fully functioning restaurant ordering system API. The project required a working SQL database, fully implemented API endpoints, and several unit tests that tested each table of the API.
+🔭 PROJECTS: <br>
+    <b> Sandwich API - Software Engineering </b> <br>
+    During the past summer, I took an accelerated software engineering course where the final project was to create a fully functioning restaurant ordering system API. The project required a working SQL database, fully implemented API endpoints, and several unit tests that tested each table of the API. <br>
     
-    Tech Stack: SQL, Python, Pytest
+    Tech Stack: SQL, Python, Pytest <br>
 
 
-🌱 GOALS AND OBJECTIVES: 
-    My goal for this course is to use the knowledge I have acquired over the past four years from school and my experience in professional environments to 
+🌱 GOALS AND OBJECTIVES: <br>
+    My goal for this course is to use the knowledge I have acquired over the past four years from school and my experience in professional environments to prove that I am ready to graduate from UNC Charlotte and succeed in this course. I am excited to 
