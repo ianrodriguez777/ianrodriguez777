@@ -13,10 +13,12 @@
 - ⚡ Fun fact: ...
 -->
 
-Hello ! My name is Ian Rodriguez .
+Hello! My name is Ian Rodriguez. I am an undergraduate student at UNC Charlotte; currently in my final semester.
 
-ABOUT ME :
+⚡ ABOUT ME: 
+    I am a software engineering student at UNC Charlotte. I enjoy playing video games, spending time in nature, and learning about art history. One of my favorite hobbies is traveling to different cities and visiting the local museums that new places have to offer. I have been working at Amazon as a warehouse associate for almost 6 months now to put myself through the remainder of my education.
 
-PROJECT:
+🔭 PROJECTS:
+    
 
-GOALS AND OBJECTIVES:
+🌱 GOALS AND OBJECTIVES:
