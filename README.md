@@ -23,7 +23,7 @@
     <b> Sandwich API - Software Engineering </b> <br>
     During the past summer, I took an accelerated software engineering course where the final project was to create a fully functioning restaurant ordering system API. The project required a working SQL database, fully implemented API endpoints, and several unit tests that tested each table of the API. <br>
     
-    Tech Stack: SQL, Python, Pytest <br>
+```    Tech Stack: SQL, Python, Pytest
 
 
 🌱 GOALS AND OBJECTIVES: <br>
